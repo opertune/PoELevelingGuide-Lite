@@ -1,0 +1,10 @@
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\bin\Debug\PoELevelingGuide Lite.exe.config
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\bin\Debug\PoELevelingGuide Lite.exe
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\bin\Debug\PoELevelingGuide Lite.pdb
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide_Lite.Form1.resources
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide_Lite.Properties.Resources.resources
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide Lite.csproj.GenerateResource.cache
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide Lite.csproj.CoreCompileInputs.cache
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide Lite.exe
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide Lite.pdb
+C:\projet\PoELevelingGuide Lite\PoELevelingGuide Lite\obj\Debug\PoELevelingGuide Lite.csprojAssemblyReference.cache
